@@ -1,0 +1,9 @@
+name: aims-workshop-vm
+channels:
+    - conda-forge
+dependencies:
+- python=3.6
+- numpy
+- ipykernel
+- scikit-learn
+- future>=0.15.2
