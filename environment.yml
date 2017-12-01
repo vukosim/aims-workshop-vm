@@ -9,3 +9,4 @@ dependencies:
 - ipykernel
 - scikit-learn
 - future>=0.15.2
+- xlrd
