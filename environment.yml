@@ -4,6 +4,8 @@ channels:
 dependencies:
 - python=3.6
 - numpy
+- pandas
+- pylab
 - ipykernel
 - scikit-learn
 - future>=0.15.2
